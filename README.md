@@ -65,8 +65,8 @@ Looker Studio allows multiple data sources, including Google Sheets. The right-s
 
 **Looker Studio provides two main customization tabs:**
 
-  📌 Setup Tab – Assigns categories, metrics, and filters.
-  🎨 Style Tab – Adjusts formatting, fonts, and layouts.
+  - Setup Tab:  Assigns categories, metrics, and filters.
+  - Style Tab: Adjusts formatting, fonts, and layouts.
 
   <img width="822" alt="3 pro" src="https://github.com/user-attachments/assets/838d576e-5b06-47f5-aa2b-09d6f3cc139a" />
 
@@ -74,8 +74,8 @@ Looker Studio allows multiple data sources, including Google Sheets. The right-s
 
 **Filters allow dynamic exploration of data. Looker Studio provides:**
 
-  ✔ AND/OR logic to combine multiple conditions.
-  ✔ Saved filters for reuse across multiple visuals.
+  - AND/OR logic to combine multiple conditions.
+  - Saved filters for reuse across multiple visuals.
 
   <img width="784" alt="4 pro" src="https://github.com/user-attachments/assets/d56d2260-2467-47a3-8b0e-5af423d4ad9a" />
 
@@ -83,10 +83,10 @@ Looker Studio allows multiple data sources, including Google Sheets. The right-s
 
 **Since the datasets were separate, the Data Blend feature was used to merge them. The steps include:**
 
-  1️⃣ Select data sources for blending.
-  2️⃣ Define a common key (e.g., province name) to link datasets.
-  3️⃣ Add relevant fields to the blended dataset.
-  4️⃣ Set a join condition to establish the relationship.
+  1. Select data sources for blending.
+  2. Define a common key (e.g., province name) to link datasets.
+  3. Add relevant fields to the blended dataset.
+  4. Set a join condition to establish the relationship.
 
   <img width="746" alt="5 pro" src="https://github.com/user-attachments/assets/e6424855-5c5d-447f-aeb1-e8cc2c9ea86c" />
 
