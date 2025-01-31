@@ -49,9 +49,9 @@ Despite some limitations, Looker Studio is a strong choice for users focused on 
 
 **Three datasets were used:**
 
-  ✔ Housing Prices (Statista, 2023) – No cleanup was required.
-  ✔ Labour Force Data (Statistics Canada, 2023) – Headers, footers, and irrelevant columns were removed.
-  ✔ Job Vacancy Rates (Statistics Canada, 2023) – Unnecessary fields were removed for relevance.
+  - Housing Prices (Statista, 2023) – No cleanup was required.
+  - Labour Force Data (Statistics Canada, 2023) – Headers, footers, and irrelevant columns were removed.
+  - Job Vacancy Rates (Statistics Canada, 2023) – Unnecessary fields were removed for relevance.
 
 These datasets were then stored in Google Sheets for structured data preparation.
 
@@ -59,7 +59,9 @@ These datasets were then stored in Google Sheets for structured data preparation
 
 Looker Studio allows multiple data sources, including Google Sheets. The right-side panel provides controls to adjust dataset settings, while the visualization toolbar enables different chart types.
 
-  <img width="809" alt="2 pro" src="https://github.com/user-attachments/assets/0eff9b04-378c-4f2e-aef1-be406774fe56" />
+
+    <img width="809" alt="2 pro" src="https://github.com/user-attachments/assets/0eff9b04-378c-4f2e-aef1-be406774fe56" />
+    
 
 3️⃣ Creating Visualizations
 
@@ -68,7 +70,8 @@ Looker Studio allows multiple data sources, including Google Sheets. The right-s
   - Setup Tab:  Assigns categories, metrics, and filters.
   - Style Tab: Adjusts formatting, fonts, and layouts.
 
-  <img width="822" alt="3 pro" src="https://github.com/user-attachments/assets/838d576e-5b06-47f5-aa2b-09d6f3cc139a" />
+    <img width="822" alt="3 pro" src="https://github.com/user-attachments/assets/838d576e-5b06-47f5-aa2b-09d6f3cc139a" />
+    
 
 4️⃣ Applying Filters
 
@@ -77,7 +80,8 @@ Looker Studio allows multiple data sources, including Google Sheets. The right-s
   - AND/OR logic to combine multiple conditions.
   - Saved filters for reuse across multiple visuals.
 
-  <img width="784" alt="4 pro" src="https://github.com/user-attachments/assets/d56d2260-2467-47a3-8b0e-5af423d4ad9a" />
+    <img width="784" alt="4 pro" src="https://github.com/user-attachments/assets/d56d2260-2467-47a3-8b0e-5af423d4ad9a" />
+    
 
 5️⃣ Mixing Datasets Using Data Blend
 
@@ -88,7 +92,8 @@ Looker Studio allows multiple data sources, including Google Sheets. The right-s
   3. Add relevant fields to the blended dataset.
   4. Set a join condition to establish the relationship.
 
-  <img width="746" alt="5 pro" src="https://github.com/user-attachments/assets/e6424855-5c5d-447f-aeb1-e8cc2c9ea86c" />
+     <img width="746" alt="5 pro" src="https://github.com/user-attachments/assets/e6424855-5c5d-447f-aeb1-e8cc2c9ea86c" />
+     
 
 ## View the Full Report
 For a detailed breakdown of the analysis please refer to the written report, that is attached in the files section of this repository. This report provides deeper insights into the analysis, tool assessment, and key insights. 
