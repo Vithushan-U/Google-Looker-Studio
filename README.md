@@ -1,5 +1,4 @@
-# Google-Looker-Studio
-## Google Looker Studio - Tool Assessment & Data Analysis Report
+# Google Looker Studio - Tool Assessment & Data Analysis Report
 This report provides a comprehensive analysis on the practical application of Google Looker Studio, evaluating its features, benefits, limitations, and user interface. It includes a step-by-step walkthrough of how the tool was used for analysis, concluding with a comparison to Microsoft Power BI and an assessment of Looker Studio’s ideal target audience.
 
 ## Analysis Overview
