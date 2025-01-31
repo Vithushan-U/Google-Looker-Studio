@@ -1,4 +1,4 @@
-# Google Looker Studio - Tool Assessment & Data Analysis Report
+# Google Looker Studio: Tool Assessment & Data Analysis on Housing Prices and Labour Market Trends in Canada
 This report provides a comprehensive analysis on the practical application of Google Looker Studio, evaluating its features, benefits, limitations, and user interface. It includes a step-by-step walkthrough of how the tool was used for analysis, concluding with a comparison to Microsoft Power BI and an assessment of Looker Studio’s ideal target audience.
 
 ## Analysis Overview
@@ -44,5 +44,5 @@ Using housing price data from Statista and labour characteristics data from Stat
 
 Despite some limitations, Looker Studio is a strong choice for users focused on simple, interactive data visualizations.
 
-## View the Written Report
+## View the Full Report
 For a detailed breakdown of the analysis please refer to the written report, that is attached in the files section of this repository. This report provides deeper insights into the analysis, tool assessment, and key insights. 
