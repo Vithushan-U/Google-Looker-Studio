@@ -6,15 +6,20 @@ Using housing price data from Statista and labour characteristics data from Stat
 
 ## Key Insights
 - Which provinces have the highest housing prices?
-
   - British Columbia, Ontario, and Quebec recorded the highest housing prices in 2023, with the Canadian average at $678,282.
+
+<img width="896" alt="Looker 1" src="https://github.com/user-attachments/assets/8f1209e0-1edd-4120-81aa-bec89691c7e1" />
 
 - Is there a correlation between the labour force and housing prices?
   - No direct correlation was observed between provinces with high housing prices and their respective labour force size.
+ 
+<img width="885" alt="Looker 2" src="https://github.com/user-attachments/assets/310f09c3-21df-41ab-a774-2804fe188d6f" />
 
 - Does the job vacancy rate impact housing prices?
   - Most provinces clustered around the median housing price with similar job vacancy rates, but Ontario, British Columbia, Saskatchewan, and Newfoundland and Labrador stood out as outliers.
  
+<img width="884" alt="Looker 3" src="https://github.com/user-attachments/assets/cdd3996c-4026-42b9-bb9d-6766ed7e8eb9" />
+
 ## Looker Studio Features & Limitations
 - Strengths:
   - User-friendly interface with intuitive filtering and formatting options
@@ -36,5 +41,5 @@ Looker Studio is best suited for:
 
 Despite some limitations, Looker Studio is a strong choice for users focused on simple, interactive data visualizations.
 
-## View the Full Report
-For a detailed breakdown of the analysis, tool assessment, and key insights, please refer to the full written report that is attached on the files section. 
+## View the Written Report
+For a detailed breakdown of the analysis please refer to the written report, that is attached in the files section of this repository. This report provides deeper insights into the analysis, tool assessment, and key insights. 
