@@ -14,7 +14,7 @@ Using housing price data from Statista and labour characteristics data from Stat
 - **Is there a correlation between the labour force and housing prices?**
   - No direct correlation was observed between provinces with high housing prices and their respective labour force size.
  
-    <img width="801" alt="Looker 2" src="https://github.com/user-attachments/assets/8965f26e-86c6-4939-a501-33b29d575256" />
+    <img width="794" alt="REUPLOAD" src="https://github.com/user-attachments/assets/e97ac99e-c2a0-42d0-93c1-da7fc6c6e686" />
 
 
 - **Does the job vacancy rate impact housing prices?**
